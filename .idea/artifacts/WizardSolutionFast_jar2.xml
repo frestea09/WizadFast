@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WizardSolutionFast:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/WizardSolutionFast_jar2</output-path>
+    <root id="archive" name="WizardSolutionFast.jar">
+      <element id="module-output" name="WizardSolutionFast" />
+    </root>
+  </artifact>
+</component>
